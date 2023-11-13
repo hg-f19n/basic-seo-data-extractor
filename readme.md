@@ -24,9 +24,9 @@ npm install axios cheerio json2csv
 
 2.  Run the script using Node.js:
 
-    bashCopy code
-
-    `node extractData.js`
+```bash
+node main.js
+```
 
 3.  The script will create an `output.csv` file containing the extracted data.
 
